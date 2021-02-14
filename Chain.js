@@ -1,4 +1,4 @@
-class Chain{
+/*class Chain{
     constructor(bodyA, bodyB){
         var options = {
             bodyA: bodyA,
@@ -17,4 +17,4 @@ class Chain{
         line(pointA.x, pointA.y, pointB.x, pointB.y);
     }
     
-}
+}*/
